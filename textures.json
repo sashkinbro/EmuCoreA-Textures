@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "platform": "ppsspp",
-  "generatedAt": "2026-09-19T16:00:00Z",
+  "generatedAt": "2026-09-19T17:00:00Z",
   "entries": [
     {
       "id": "imassp-tl-idolmaster-sp-cn-20260919",
@@ -230,6 +230,25 @@
       "fileCount": 2423,
       "previewUrls": [],
       "sourceRelease": "master"
+    },
+    {
+      "id": "three5media-mhfu-hd-retexture-20260919",
+      "name": "Monster Hunter Freedom Unite HD Retexture",
+      "gameTitle": "Monster Hunter Freedom Unite",
+      "serials": ["ULUS-10391"],
+      "version": "main snapshot 2026-09-19",
+      "authors": ["three5media"],
+      "credits": "Retexture project by three5media. The upstream README explicitly permits taking and using project materials anywhere and credits MHFURemaster-VakSan and MHFU-HD for some contributed textures; those third-party rights remain with their respective authors. EmuCoreA includes the upstream README and a redistribution notice.",
+      "description": "Large PPSSPP HD replacement pack for the US PSP release. The normalized archive places the upstream ULUS10391 contents at the ZIP root, retains 5,894 PNG assets and the source README, and removes four dangling mappings whose files were absent from the upstream snapshot.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Textures/releases/download/texture-catalog-psp-mhfu-20260919/mhfu-ulus10391-hd-v2-emucorea.zip",
+      "sourceUrl": "https://github.com/three5media/mfhu-hd-retexture",
+      "license": "Explicit upstream README permission to use project materials anywhere; no formal SPDX license; third-party texture sources and their rights are preserved in the included upstream README",
+      "distribution": "mirrored",
+      "sizeBytes": 1229774225,
+      "sha256": "110211286A1AE3F17669E87EF7D6B92267CB5D4B264A576AD87BAD428B97E47C",
+      "fileCount": 5894,
+      "previewUrls": [],
+      "sourceRelease": "main @ 18b3ee4f4c0074acd9e36ef4330a146cf59cbe2b"
     }
   ]
 }
