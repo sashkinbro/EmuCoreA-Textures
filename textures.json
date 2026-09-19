@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "platform": "ppsspp",
-  "generatedAt": "2026-09-19T17:00:00Z",
+  "generatedAt": "2026-09-19T18:00:00Z",
   "entries": [
     {
       "id": "imassp-tl-idolmaster-sp-cn-20260919",
@@ -249,6 +249,44 @@
       "fileCount": 5894,
       "previewUrls": [],
       "sourceRelease": "main @ 18b3ee4f4c0074acd9e36ef4330a146cf59cbe2b"
+    },
+    {
+      "id": "akirajkr-metal-gear-solid-peace-walker-hd-20260919",
+      "name": "Metal Gear Solid: Peace Walker HD Texture Pack",
+      "gameTitle": "Metal Gear Solid: Peace Walker",
+      "serials": ["ULUS-10509", "ULES-01372"],
+      "version": "master snapshot 2026-09-19",
+      "authors": ["AkiraJkr"],
+      "credits": "Texture project by AkiraJkr. The upstream README documents both US and European serials; no redistribution license is stated, so EmuCoreA links to the exact upstream archive only.",
+      "description": "Small PPSSPP replacement pack for the US and European PSP releases. The upstream ZIP contains textures.ini and 12 PNG assets with complete mappings; it remains an external source because mirror permission is not stated.",
+      "downloadUrl": "https://github.com/AkiraJkr/Metal-Gear-Solid-Peace-Walker-HD-Textures/archive/refs/heads/master.zip",
+      "sourceUrl": "https://github.com/AkiraJkr/Metal-Gear-Solid-Peace-Walker-HD-Textures",
+      "license": "No redistribution license stated; link to upstream only",
+      "distribution": "link-only",
+      "sizeBytes": 6667393,
+      "sha256": "71BEE53F39EC3FB1A4133286EDF9DA8B5CE971845A3F69138390C152FB0E3951",
+      "fileCount": 12,
+      "previewUrls": [],
+      "sourceRelease": "master"
+    },
+    {
+      "id": "miyamurashiro-test-drive-unlimited-20260919",
+      "name": "Test Drive Unlimited PSP Basic Texture Pack",
+      "gameTitle": "Test Drive Unlimited",
+      "serials": ["ULUS-10249"],
+      "version": "main snapshot 2026-09-19",
+      "authors": ["MiyamuraShiro"],
+      "credits": "Basic texture project by MiyamuraShiro. The upstream README documents the ULUS-10249 target and its source contributors; no redistribution license is stated, so EmuCoreA links to the exact upstream archive only.",
+      "description": "PPSSPP replacement textures for the US PSP release. The upstream ZIP contains textures.ini and 49 PNG assets; one source mapping points to an absent graphic/ceu1.png, so the external snapshot is kept link-only without altering it.",
+      "downloadUrl": "https://github.com/MiyamuraShiro/Test-Drive-Unlimited-Texture-PSP/archive/refs/heads/main.zip",
+      "sourceUrl": "https://github.com/MiyamuraShiro/Test-Drive-Unlimited-Texture-PSP",
+      "license": "No redistribution license stated; link to upstream only",
+      "distribution": "link-only",
+      "sizeBytes": 13457632,
+      "sha256": "A109D46F5100BA1D97924F6639698076FB2EC762F0FFC3799A48BD9B76FCB088",
+      "fileCount": 49,
+      "previewUrls": [],
+      "sourceRelease": "main"
     }
   ]
 }
