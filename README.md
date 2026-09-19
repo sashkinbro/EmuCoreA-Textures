@@ -51,7 +51,10 @@ The current mirrored ZIP assets are published in the
 release. Its assets include the IMASSP Idolmaster SP pack, the normalized La
 Pucelle Ragnarok UI pack, and the Persona 3 Portable Chinese overlay. Entries
 marked `link-only` keep the author's direct URL and are not copied into this
-release.
+release. The large Monster Hunter Freedom Unite pack is published separately
+in the [`texture-catalog-psp-mhfu-20260919`](https://github.com/sashkinbro/EmuCoreA-Textures/releases/tag/texture-catalog-psp-mhfu-20260919)
+release. Entries marked `link-only` keep the author's direct URL and are not
+copied into these releases.
 
 Run the checks before publishing a catalog change:
 
