@@ -15,6 +15,9 @@ unauthorized mirror.
 - `catalog-audit.json` - source and content fingerprints for verified entries.
 - `schemas/texture-catalog.schema.json` - public JSON format contract.
 - `scripts/validate_catalog.py` - dependency-free catalog validation.
+- `scripts/prepare_pack.py` - deterministic PPSSPP ZIP repacking.
+- `scripts/normalize_partial_pack.py` - removes only dangling mappings from
+  an upstream snapshot that omits referenced files.
 - `scripts/validate_pack.py` - PPSSPP ZIP safety and manifest validation.
 - `scripts/inspect_pack.py` - deterministic archive summary and SHA-256 output.
 
