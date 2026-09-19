@@ -52,6 +52,31 @@ release: IMASSP Idolmaster SP, La Pucelle Ragnarok UI, Persona 3 Portable
 Chinese overlay, and Monster Hunter Freedom Unite. Entries marked `link-only`
 keep the author's direct URL and are not copied into the release.
 
+The release asset names preserve the upstream project or pack identity; they
+do not claim authorship for EmuCoreA and do not use an `-emucorea` suffix.
+The mirrored pack provenance is:
+
+- **IMASSP Idolmaster SP** — IMASSP-TL contributors,
+  [Imas-SP-Texture-Patch-CN](https://github.com/IMASSP-TL/Imas-SP-Texture-Patch-CN),
+  GPL-3.0.
+- **La Pucelle: Ragnarok UI** — althonos,
+  [lapucelle-textures](https://github.com/althonos/lapucelle-textures),
+  CC-NC 1.0; non-commercial redistribution only.
+- **Persona 3 Portable Chinese overlay** — PandaQuQ and TridentOfTheAbyss,
+  [P3P_HD_CHINESE](https://github.com/PandaQuQ/P3P_HD_CHINESE), MIT;
+  the separately credited base pack remains a prerequisite.
+- **Monster Hunter Freedom Unite US** — three5media,
+  [mfhu-hd-retexture](https://github.com/three5media/mfhu-hd-retexture);
+  the upstream README grants permission to use the project materials.
+- **Monster Hunter Freedom Unite EU** — replydev,
+  [mhfu-hd-retexture-eu](https://github.com/replydev/mhfu-hd-retexture-eu);
+  the upstream README grants permission to use the project materials.
+
+Each mirrored ZIP retains the upstream README and license or permission notice
+where available. Third-party game and texture rights remain with their
+respective owners. The authoritative author, source, license, serial,
+mapping, size, and SHA-256 fields are in `textures.json`.
+
 Run the checks before publishing a catalog change:
 
 ```text
