@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "platform": "ppsspp",
-  "generatedAt": "2026-09-19T20:00:00Z",
+  "generatedAt": "2026-09-19T21:00:00Z",
   "entries": [
     {
       "id": "imassp-tl-idolmaster-sp-cn-20260919",
@@ -249,6 +249,25 @@
       "fileCount": 5894,
       "previewUrls": [],
       "sourceRelease": "main @ 18b3ee4f4c0074acd9e36ef4330a146cf59cbe2b"
+    },
+    {
+      "id": "replydev-mhfu-hd-retexture-eu-20260919",
+      "name": "Monster Hunter Freedom Unite HD Retexture (EU)",
+      "gameTitle": "Monster Hunter Freedom Unite",
+      "serials": ["ULES-01213"],
+      "version": "main snapshot 2026-09-19",
+      "authors": ["replydev"],
+      "credits": "EU retexture fork by replydev. The upstream README explicitly permits taking and using project materials anywhere and credits MHFURemaster-VakSan and MHFU-HD for some contributed textures; those third-party rights remain with their respective authors. EmuCoreA includes the upstream README and a redistribution notice.",
+      "description": "Large PPSSPP HD replacement pack for the European PSP release. The normalized archive places the upstream ULES01213 contents at the ZIP root, retains 5,894 PNG assets and the source README, and removes four dangling mappings whose files were absent from the upstream snapshot.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Textures/releases/download/texture-catalog/mhfu-ules01213-hd-v2-emucorea.zip",
+      "sourceUrl": "https://github.com/replydev/mhfu-hd-retexture-eu",
+      "license": "Explicit upstream README permission to use project materials anywhere; no formal SPDX license; third-party texture sources and their rights are preserved in the included upstream README",
+      "distribution": "mirrored",
+      "sizeBytes": 1229774338,
+      "sha256": "3DBDEA3CFE9A187AFE08A4C20B310076C723307EEDA501181193E8B2B60E45B0",
+      "fileCount": 5894,
+      "previewUrls": [],
+      "sourceRelease": "main @ ed23e724d603048fa54fdce7bd6550c26a7051"
     },
     {
       "id": "akirajkr-metal-gear-solid-peace-walker-hd-20260919",
