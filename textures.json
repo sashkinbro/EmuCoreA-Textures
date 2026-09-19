@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "platform": "ppsspp",
-  "generatedAt": "2026-09-19T00:00:00Z",
+  "generatedAt": "2026-09-19T14:03:45Z",
   "entries": [
     {
       "id": "imassp-tl-idolmaster-sp-cn-20260919",
@@ -78,6 +78,63 @@
       "fileCount": 4467,
       "previewUrls": [],
       "sourceRelease": "v3.0.1"
+    },
+    {
+      "id": "althonos-lapucelle-ragnarok-ui-20260919",
+      "name": "La Pucelle: Ragnarok PPSSPP HD UI Texture Pack",
+      "gameTitle": "La Pucelle: Ragnarok",
+      "serials": ["ULJS-00244"],
+      "version": "v0.1.0 normalized UI subset",
+      "authors": ["althonos"],
+      "credits": "Original texture project by althonos; fonts and third-party contributions are credited in the included upstream README. EmuCoreA retains the source README, COPYING.md, CHANGELOG.md, and attribution notice.",
+      "description": "A normalized PPSSPP UI/font replacement subset from the upstream release. The upstream release archive contained nine image assets while its textures.ini referenced additional absent files; this derivative removes only those dangling mappings so the archive validates and loads safely.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Textures/releases/download/texture-catalog-2026-09-19-psp-additional/lapucelle-uljs00244-ui-v0.1.0-emucorea.zip",
+      "sourceUrl": "https://github.com/althonos/lapucelle-textures",
+      "license": "CC-NC 1.0 as identified by upstream README; non-commercial redistribution only: https://creativecommons.org/licenses/nc/1.0/",
+      "distribution": "mirrored",
+      "sizeBytes": 1189408,
+      "sha256": "EE5C9E863F83D758858BCF3F4D4FA6D11017AB3B77250F2280859571633AE7E3",
+      "fileCount": 9,
+      "previewUrls": ["https://raw.githubusercontent.com/althonos/lapucelle-textures/master/static/screen1-new.png"],
+      "sourceRelease": "v0.1.0"
+    },
+    {
+      "id": "retokyo-wipeout-pure-hd-20260919",
+      "name": "WipEout Pure HD Texture Pack",
+      "gameTitle": "WipEout Pure",
+      "serials": ["UCES-00001", "UCUS-98612", "UCJS-10007", "ULES-00229", "ULUS-10058"],
+      "version": "master snapshot 2026-09-19",
+      "authors": ["reTokyo"],
+      "credits": "Texture project by reTokyo; Sony/Studio Liverpool copyright and trademark notices are retained in the upstream README. EmuCoreA links to the original repository and does not mirror it.",
+      "description": "UI-focused PPSSPP HD texture project for WipEout Pure and listed demo regions. Redistribution permission is not stated, so this catalog keeps the exact upstream ZIP link only.",
+      "downloadUrl": "https://github.com/reTokyo/WipEout-Pure-HD-Texture-Pack/archive/refs/heads/master.zip",
+      "sourceUrl": "https://github.com/reTokyo/WipEout-Pure-HD-Texture-Pack",
+      "license": "No redistribution license stated; upstream copyright notice; link-only",
+      "distribution": "link-only",
+      "sizeBytes": 7810547,
+      "sha256": "E235F024182E6D31BFE0749DACD1D4A4A690121D8DD04A4A215D9B72458C417E",
+      "fileCount": 130,
+      "previewUrls": [],
+      "sourceRelease": "master"
+    },
+    {
+      "id": "sinceohsix-peggle-portable-hd-20260919",
+      "name": "Peggle Portable HD Texture Pack (PlayStation layout)",
+      "gameTitle": "Peggle",
+      "serials": ["NPUG-30040"],
+      "version": "latest release snapshot 2026-09-19",
+      "authors": ["sinceohsix"],
+      "credits": "Pack by sinceohsix. Peggle trademark and original game assets remain with Electronic Arts; EmuCoreA links to the upstream release and does not mirror it.",
+      "description": "PPSSPP HD replacement textures for Peggle PSP with the PlayStation controller layout. The upstream archive is preserved as an exact external link because no redistribution license is stated.",
+      "downloadUrl": "https://github.com/sinceohsix/PeggleHD/releases/latest/download/NPUG30040-PS.zip",
+      "sourceUrl": "https://github.com/sinceohsix/PeggleHD",
+      "license": "No redistribution license stated; Electronic Arts trademark notice; link-only",
+      "distribution": "link-only",
+      "sizeBytes": 58283322,
+      "sha256": "DF49CA9CD73476494D9948C1D179B1D000155D52EC0E15BBFED6B6EC622574AE",
+      "fileCount": 384,
+      "previewUrls": [],
+      "sourceRelease": "latest"
     }
   ]
 }

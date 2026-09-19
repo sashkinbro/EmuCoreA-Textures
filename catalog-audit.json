@@ -18,6 +18,23 @@
           "sourceCommit": "main"
         }
       ]
+    },
+    {
+      "batchId": "2026-09-19-002",
+      "verifiedAt": "2026-09-19T14:01:56Z",
+      "releaseTag": "texture-catalog-2026-09-19-psp-additional",
+      "entries": [
+        {
+          "catalogId": "althonos-lapucelle-ragnarok-ui-20260919",
+          "sourceSha256": "07F09D75C6CB586ADD42A0B0D6279E042DF7E041E43864A2877745EB0297241B",
+          "normalizedSha256": "EE5C9E863F83D758858BCF3F4D4FA6D11017AB3B77250F2280859571633AE7E3",
+          "manifestSha256": "203925D48778E671D88D8779A7C761209C8FB260A541CF412DF91C64F157D2C1",
+          "contentSetSha256": "697588FEA6DB70FC14CD7ADFDBD31008CD2722AB0CA4408F32FA2152A6404D0B",
+          "assetName": "lapucelle-uljs00244-ui-v0.1.0-emucorea.zip",
+          "sourceUrl": "https://github.com/althonos/lapucelle-textures",
+          "sourceCommit": "1bd9e1a"
+        }
+      ]
     }
   ]
 }
