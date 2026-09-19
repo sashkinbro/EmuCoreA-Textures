@@ -88,7 +88,7 @@
       "authors": ["althonos"],
       "credits": "Original texture project by althonos; fonts and third-party contributions are credited in the included upstream README. EmuCoreA retains the source README, COPYING.md, CHANGELOG.md, and attribution notice.",
       "description": "A normalized PPSSPP UI/font replacement subset from the upstream release. The upstream release archive contained nine image assets while its textures.ini referenced additional absent files; this derivative removes only those dangling mappings so the archive validates and loads safely.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Textures/releases/download/texture-catalog-2026-09-19-psp-additional/lapucelle-uljs00244-ui-v0.1.0-emucorea.zip",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Textures/releases/download/texture-catalog-psp-additional-20260919/lapucelle-uljs00244-ui-v0.1.0-emucorea.zip",
       "sourceUrl": "https://github.com/althonos/lapucelle-textures",
       "license": "CC-NC 1.0 as identified by upstream README; non-commercial redistribution only: https://creativecommons.org/licenses/nc/1.0/",
       "distribution": "mirrored",
@@ -138,3 +138,4 @@
     }
   ]
 }
+

@@ -22,7 +22,7 @@
     {
       "batchId": "2026-09-19-002",
       "verifiedAt": "2026-09-19T14:01:56Z",
-      "releaseTag": "texture-catalog-2026-09-19-psp-additional",
+      "releaseTag": "texture-catalog-psp-additional-20260919",
       "entries": [
         {
           "catalogId": "althonos-lapucelle-ragnarok-ui-20260919",
@@ -38,3 +38,4 @@
     }
   ]
 }
+
