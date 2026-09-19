@@ -49,8 +49,10 @@ hyphenated PSP form (`ULUS-10041`) while installers remove the hyphen.
 All current mirrored ZIP assets are published in the single stable
 [`texture-catalog`](https://github.com/sashkinbro/EmuCoreA-Textures/releases/tag/texture-catalog)
 release: IMASSP Idolmaster SP, La Pucelle Ragnarok UI, Persona 3 Portable
-Chinese overlay, and Monster Hunter Freedom Unite. Entries marked `link-only`
-keep the author's direct URL and are not copied into the release.
+Chinese overlay, Monster Hunter Freedom Unite (US/EU), and SonofUgly's
+Liberty City Stories, Vice City Stories, and Chinatown Wars packs. Entries
+marked `link-only` keep the author's direct URL and are not copied into the
+release.
 
 The release asset names preserve the upstream project or pack identity; they
 do not claim authorship for EmuCoreA and do not use an `-emucorea` suffix.
@@ -71,6 +73,22 @@ The mirrored pack provenance is:
 - **Monster Hunter Freedom Unite EU** — replydev,
   [mhfu-hd-retexture-eu](https://github.com/replydev/mhfu-hd-retexture-eu);
   the upstream README grants permission to use the project materials.
+- **Grand Theft Auto: Liberty City Stories** — SonofUgly,
+  [LCS-Texture-Pack](https://github.com/SonofUgly/LCS-Texture-Pack);
+  the author grants use of any or all of the project in the
+  [PPSSPP forum thread](https://forums.ppsspp.org/showthread.php?pid=142853&tid=22930).
+- **Grand Theft Auto: Vice City Stories** — SonofUgly,
+  [VCS-Texture-Pack](https://github.com/SonofUgly/VCS-Texture-Pack);
+  the same author permission applies.
+- **Grand Theft Auto: Chinatown Wars** — SonofUgly,
+  [CW-Texture-Pack](https://github.com/SonofUgly/CW-Texture-Pack);
+  the same author permission applies.
+
+The three SonofUgly source releases contain dangling mappings for image files
+that are absent from the published snapshots. Their normalized assets retain
+all available upstream images and remove only those missing mapping lines;
+`EMuCoreA-NORMALIZATION.md` inside each ZIP records the counts. Image bytes and
+the original README are preserved.
 
 Each mirrored ZIP retains the upstream README and license or permission notice
 where available. Third-party game and texture rights remain with their

@@ -1,15 +1,21 @@
 {
   "schemaVersion": 1,
   "platform": "ppsspp",
-  "generatedAt": "2026-09-19T21:00:00Z",
+  "generatedAt": "2026-09-19T21:30:00Z",
   "entries": [
     {
       "id": "imassp-tl-idolmaster-sp-cn-20260919",
       "name": "The Idolmaster SP Chinese High Resolution Texture Pack",
       "gameTitle": "The Idolmaster SP",
-      "serials": ["ULJS-00167", "ULJS-00168", "ULJS-00169"],
+      "serials": [
+        "ULJS-00167",
+        "ULJS-00168",
+        "ULJS-00169"
+      ],
       "version": "main snapshot 2026-09-19",
-      "authors": ["IMASSP-TL contributors"],
+      "authors": [
+        "IMASSP-TL contributors"
+      ],
       "credits": "Original pack and texture work by the IMASSP-TL contributors. EmuCoreA normalized the upstream repository into a deterministic PPSSPP ZIP while retaining the upstream LICENSE and README.",
       "description": "Chinese high-resolution replacement textures for Perfect Sun, Wandering Star, and Missing Moon. The archive contains textures.ini and the referenced PNG assets only; it does not contain a game image.",
       "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Textures/releases/download/texture-catalog/imas-sp-perfect-sun-wandering-star-missing-moon.zip",
@@ -19,16 +25,25 @@
       "sizeBytes": 294486374,
       "sha256": "C0D7E7D6956AC4F5655BF1C5CCDBA88E5772CCC07C1E8A07AE43988D3AB97E15",
       "fileCount": 244,
-      "previewUrls": ["https://picui.ogmua.cn/s1/2026/03/24/69c1c927149b7.webp"],
+      "previewUrls": [
+        "https://picui.ogmua.cn/s1/2026/03/24/69c1c927149b7.webp"
+      ],
       "sourceRelease": "main"
     },
     {
       "id": "itzantonis2012-gta-liberty-city-stories-20260919",
       "name": "GTA Liberty City Stories PSP Texture Pack",
       "gameTitle": "Grand Theft Auto: Liberty City Stories",
-      "serials": ["ULUS-10041"],
+      "serials": [
+        "ULUS-10041"
+      ],
       "version": "v1",
-      "authors": ["ItzAntonis2012", "SonofUgly", "Mentraze", "ThirteenAG"],
+      "authors": [
+        "ItzAntonis2012",
+        "SonofUgly",
+        "Mentraze",
+        "ThirteenAG"
+      ],
       "credits": "Pack assembled by ItzAntonis2012; source work is credited in the upstream README. EmuCoreA links to the author's release and does not mirror it.",
       "description": "PPSSPP replacement textures for the USA PSP release. The upstream archive includes textures.ini and 292 image assets.",
       "downloadUrl": "https://github.com/ItzAntonis2012/modernizepspgames/releases/download/v1/gtalcs_texturepack_psp.zip",
@@ -45,9 +60,16 @@
       "id": "itzantonis2012-gta-vice-city-stories-20260919",
       "name": "GTA Vice City Stories PSP Texture Pack",
       "gameTitle": "Grand Theft Auto: Vice City Stories",
-      "serials": ["ULUS-10160"],
+      "serials": [
+        "ULUS-10160"
+      ],
       "version": "v1",
-      "authors": ["ItzAntonis2012", "SonofUgly", "Tervel1337", "ThirteenAG"],
+      "authors": [
+        "ItzAntonis2012",
+        "SonofUgly",
+        "Tervel1337",
+        "ThirteenAG"
+      ],
       "credits": "Pack assembled by ItzAntonis2012; source work is credited in the upstream README. EmuCoreA links to the author's release and does not mirror it.",
       "description": "PPSSPP replacement textures for the USA PSP release. The upstream archive includes textures.ini and 219 image assets.",
       "downloadUrl": "https://github.com/ItzAntonis2012/modernizepspgames/releases/download/v1/gtavcs_texturepack_psp.zip",
@@ -64,9 +86,14 @@
       "id": "santiago046-manhunt-2-20260919",
       "name": "Manhunt 2 PSP Texture Pack",
       "gameTitle": "Manhunt 2",
-      "serials": ["ULUS-10280", "ULES-00756"],
+      "serials": [
+        "ULUS-10280",
+        "ULES-00756"
+      ],
       "version": "v3.0.1",
-      "authors": ["santiago046"],
+      "authors": [
+        "santiago046"
+      ],
       "credits": "Texture pack by santiago046. The upstream README prohibits re-uploading; EmuCoreA links to the original release only.",
       "description": "PPSSPP replacement textures for the USA and Europe PSP releases. The upstream archive includes KTX2, ZIMG, and PNG assets.",
       "downloadUrl": "https://github.com/santiago046/ppsspp-mh2-texture-pack/releases/download/v3.0.1/manhunt2-texture-pack-v3.0.1.zip",
@@ -83,9 +110,13 @@
       "id": "althonos-lapucelle-ragnarok-ui-20260919",
       "name": "La Pucelle: Ragnarok PPSSPP HD UI Texture Pack",
       "gameTitle": "La Pucelle: Ragnarok",
-      "serials": ["ULJS-00244"],
+      "serials": [
+        "ULJS-00244"
+      ],
       "version": "v0.1.0 normalized UI subset",
-      "authors": ["althonos"],
+      "authors": [
+        "althonos"
+      ],
       "credits": "Original texture project by althonos; fonts and third-party contributions are credited in the included upstream README. EmuCoreA retains the source README, COPYING.md, CHANGELOG.md, and attribution notice.",
       "description": "A normalized PPSSPP UI/font replacement subset from the upstream release. The upstream release archive contained nine image assets while its textures.ini referenced additional absent files; this derivative removes only those dangling mappings so the archive validates and loads safely.",
       "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Textures/releases/download/texture-catalog/lapucelle-uljs00244-ui-v0.1.0.zip",
@@ -95,16 +126,26 @@
       "sizeBytes": 1189408,
       "sha256": "EE5C9E863F83D758858BCF3F4D4FA6D11017AB3B77250F2280859571633AE7E3",
       "fileCount": 9,
-      "previewUrls": ["https://raw.githubusercontent.com/althonos/lapucelle-textures/master/static/screen1-new.png"],
+      "previewUrls": [
+        "https://raw.githubusercontent.com/althonos/lapucelle-textures/master/static/screen1-new.png"
+      ],
       "sourceRelease": "v0.1.0"
     },
     {
       "id": "retokyo-wipeout-pure-hd-20260919",
       "name": "WipEout Pure HD Texture Pack",
       "gameTitle": "WipEout Pure",
-      "serials": ["UCES-00001", "UCUS-98612", "UCJS-10007", "ULES-00229", "ULUS-10058"],
+      "serials": [
+        "UCES-00001",
+        "UCUS-98612",
+        "UCJS-10007",
+        "ULES-00229",
+        "ULUS-10058"
+      ],
       "version": "master snapshot 2026-09-19",
-      "authors": ["reTokyo"],
+      "authors": [
+        "reTokyo"
+      ],
       "credits": "Texture project by reTokyo; Sony/Studio Liverpool copyright and trademark notices are retained in the upstream README. EmuCoreA links to the original repository and does not mirror it.",
       "description": "UI-focused PPSSPP HD texture project for WipEout Pure and listed demo regions. Redistribution permission is not stated, so this catalog keeps the exact upstream ZIP link only.",
       "downloadUrl": "https://github.com/reTokyo/WipEout-Pure-HD-Texture-Pack/archive/refs/heads/master.zip",
@@ -121,9 +162,13 @@
       "id": "sinceohsix-peggle-portable-hd-20260919",
       "name": "Peggle Portable HD Texture Pack (PlayStation layout)",
       "gameTitle": "Peggle",
-      "serials": ["NPUG-30040"],
+      "serials": [
+        "NPUG-30040"
+      ],
       "version": "latest release snapshot 2026-09-19",
-      "authors": ["sinceohsix"],
+      "authors": [
+        "sinceohsix"
+      ],
       "credits": "Pack by sinceohsix. Peggle trademark and original game assets remain with Electronic Arts; EmuCoreA links to the upstream release and does not mirror it.",
       "description": "PPSSPP HD replacement textures for Peggle PSP with the PlayStation controller layout. The upstream archive is preserved as an exact external link because no redistribution license is stated.",
       "downloadUrl": "https://github.com/sinceohsix/PeggleHD/releases/latest/download/NPUG30040-PS.zip",
@@ -140,9 +185,13 @@
       "id": "ezehokadrim-fate-extra-20260919",
       "name": "Fate/Extra PSP HD Texture Pack",
       "gameTitle": "Fate/Extra",
-      "serials": ["ULUS-10576"],
+      "serials": [
+        "ULUS-10576"
+      ],
       "version": "master snapshot 2026-09-19",
-      "authors": ["Ezehokadrim"],
+      "authors": [
+        "Ezehokadrim"
+      ],
       "credits": "Texture project by Ezehokadrim. The upstream README credits original game rights holders and asks users to credit the author; EmuCoreA links to the original repository and does not mirror it.",
       "description": "PPSSPP replacement textures for the US PSP release. The repository contains a root textures.ini and 1,991 image assets, with 200 referenced images absent from the snapshot; its README does not state a redistribution license or permission, so this entry keeps the exact upstream ZIP link only.",
       "downloadUrl": "https://github.com/Ezehokadrim/fate-extra-texturepack/archive/refs/heads/master.zip",
@@ -159,9 +208,14 @@
       "id": "pandaquq-p3p-hd-chinese-overlay-20260919",
       "name": "Persona 3 Portable HD Chinese Texture Overlay",
       "gameTitle": "Persona 3 Portable",
-      "serials": ["NPJH-50040"],
+      "serials": [
+        "NPJH-50040"
+      ],
       "version": "v0.11 normalized overlay",
-      "authors": ["PandaQuQ", "TridentOfTheAbyss"],
+      "authors": [
+        "PandaQuQ",
+        "TridentOfTheAbyss"
+      ],
       "credits": "Original project by PandaQuQ and TridentOfTheAbyss; the upstream README also credits the PPSSPP and Persona Modding communities and identifies the separate DinJerr base pack. EmuCoreA includes the upstream MIT LICENSE and an attribution notice.",
       "description": "Chinese HD texture overlay for the Japanese fan-translation release. The upstream textures.ini referenced a separate US base pack and 4,775 absent files; this normalized archive retains the 3,306 present PNG assets and their complete mappings, so the base pack remains a separate prerequisite.",
       "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Textures/releases/download/texture-catalog/p3p-hd-chinese-npjh50040-v0.11.zip",
@@ -178,9 +232,13 @@
       "id": "chenetulipe-p2is-french-hd-overlay-20260919",
       "name": "Persona 2: Innocent Sin French HD Texture Patch",
       "gameTitle": "Persona 2: Innocent Sin",
-      "serials": ["ULES-01557"],
+      "serials": [
+        "ULES-01557"
+      ],
       "version": "beta 0.1",
-      "authors": ["chenetulipe contributors"],
+      "authors": [
+        "chenetulipe contributors"
+      ],
       "credits": "French texture patch by the chenetulipe project. The upstream release credits @racawr for the separate original HD base pack and instructs users to apply this patch over it.",
       "description": "French UI texture patch for the European PSP release. The exact upstream ZIP contains 37 PNG files under patch/Text and patch/UI but no textures.ini; it must be overlaid on the separate base pack and is therefore cataloged as a source link, not a standalone EmuCoreA downloadable pack.",
       "downloadUrl": "https://github.com/chenetulipe/P2-FR-IS-PSP/releases/download/Pack-de-textures-HD/P2IS-HD-FR-beta0.1.zip",
@@ -197,9 +255,13 @@
       "id": "sieben5106-fate-extra-japanese-hd-font-20260919",
       "name": "Fate/EXTRA Japanese HD Font Add-on",
       "gameTitle": "Fate/EXTRA",
-      "serials": ["NPJH-50247"],
+      "serials": [
+        "NPJH-50247"
+      ],
       "version": "main snapshot 2026-09-19",
-      "authors": ["SIEBEN5106"],
+      "authors": [
+        "SIEBEN5106"
+      ],
       "credits": "Japanese HD font add-on by SIEBEN5106. The README identifies the source fonts and their SIL Open Font License 1.1 terms; the texture pack itself has no separate redistribution license, so EmuCoreA links to the upstream snapshot only.",
       "description": "Japanese font replacement add-on for the Japanese PSP release. The upstream ZIP contains textures.ini and 16 PNG font textures, but it is designed to be merged into another Fate/EXTRA texture pack and does not include the rest of the game textures; install it only with the upstream instructions.",
       "downloadUrl": "https://github.com/SIEBEN5106/Fate-EXTRA-Japanese-HD-Font/archive/refs/heads/main.zip",
@@ -216,9 +278,13 @@
       "id": "saramagrean-sao-infinity-moment-hd-20260919",
       "name": "Sword Art Online: Infinity Moment HD Texture Pack",
       "gameTitle": "Sword Art Online: Infinity Moment",
-      "serials": ["NPJH-50701"],
+      "serials": [
+        "NPJH-50701"
+      ],
       "version": "master snapshot 2026-09-19",
-      "authors": ["Saramagrean (Benjamin Benda Gates)"],
+      "authors": [
+        "Saramagrean (Benjamin Benda Gates)"
+      ],
       "credits": "HD texture and cutscene support project by Saramagrean. The upstream README documents compatibility with the original Japanese release or an English-patched release; EmuCoreA links to the original repository and does not mirror it.",
       "description": "PPSSPP HD replacement textures for Sword Art Online: Infinity Moment. The exact upstream ZIP contains a root textures.ini and 2,421 PNG assets; it is a large source archive and may be used with the original Japanese game or the separately documented English patch.",
       "downloadUrl": "https://github.com/Saramagrean/SAO-IM-HD-Remake-Project/archive/refs/heads/master.zip",
@@ -235,9 +301,13 @@
       "id": "three5media-mhfu-hd-retexture-20260919",
       "name": "Monster Hunter Freedom Unite HD Retexture",
       "gameTitle": "Monster Hunter Freedom Unite",
-      "serials": ["ULUS-10391"],
+      "serials": [
+        "ULUS-10391"
+      ],
       "version": "main snapshot 2026-09-19",
-      "authors": ["three5media"],
+      "authors": [
+        "three5media"
+      ],
       "credits": "Retexture project by three5media. The upstream README explicitly permits taking and using project materials anywhere and credits MHFURemaster-VakSan and MHFU-HD for some contributed textures; those third-party rights remain with their respective authors. EmuCoreA includes the upstream README and a redistribution notice.",
       "description": "Large PPSSPP HD replacement pack for the US PSP release. The normalized archive places the upstream ULUS10391 contents at the ZIP root, retains 5,894 PNG assets and the source README, and removes four dangling mappings whose files were absent from the upstream snapshot.",
       "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Textures/releases/download/texture-catalog/mhfu-ulus10391-hd-v2.zip",
@@ -254,9 +324,13 @@
       "id": "replydev-mhfu-hd-retexture-eu-20260919",
       "name": "Monster Hunter Freedom Unite HD Retexture (EU)",
       "gameTitle": "Monster Hunter Freedom Unite",
-      "serials": ["ULES-01213"],
+      "serials": [
+        "ULES-01213"
+      ],
       "version": "main snapshot 2026-09-19",
-      "authors": ["replydev"],
+      "authors": [
+        "replydev"
+      ],
       "credits": "EU retexture fork by replydev. The upstream README explicitly permits taking and using project materials anywhere and credits MHFURemaster-VakSan and MHFU-HD for some contributed textures; those third-party rights remain with their respective authors. EmuCoreA includes the upstream README and a redistribution notice.",
       "description": "Large PPSSPP HD replacement pack for the European PSP release. The normalized archive places the upstream ULES01213 contents at the ZIP root, retains 5,894 PNG assets and the source README, and removes four dangling mappings whose files were absent from the upstream snapshot.",
       "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Textures/releases/download/texture-catalog/mhfu-ules01213-hd-v2.zip",
@@ -273,9 +347,14 @@
       "id": "akirajkr-metal-gear-solid-peace-walker-hd-20260919",
       "name": "Metal Gear Solid: Peace Walker HD Texture Pack",
       "gameTitle": "Metal Gear Solid: Peace Walker",
-      "serials": ["ULUS-10509", "ULES-01372"],
+      "serials": [
+        "ULUS-10509",
+        "ULES-01372"
+      ],
       "version": "master snapshot 2026-09-19",
-      "authors": ["AkiraJkr"],
+      "authors": [
+        "AkiraJkr"
+      ],
       "credits": "Texture project by AkiraJkr. The upstream README documents both US and European serials; no redistribution license is stated, so EmuCoreA links to the exact upstream archive only.",
       "description": "Small PPSSPP replacement pack for the US and European PSP releases. The upstream ZIP contains textures.ini and 12 PNG assets with complete mappings; it remains an external source because mirror permission is not stated.",
       "downloadUrl": "https://github.com/AkiraJkr/Metal-Gear-Solid-Peace-Walker-HD-Textures/archive/refs/heads/master.zip",
@@ -292,9 +371,13 @@
       "id": "miyamurashiro-test-drive-unlimited-20260919",
       "name": "Test Drive Unlimited PSP Basic Texture Pack",
       "gameTitle": "Test Drive Unlimited",
-      "serials": ["ULUS-10249"],
+      "serials": [
+        "ULUS-10249"
+      ],
       "version": "main snapshot 2026-09-19",
-      "authors": ["MiyamuraShiro"],
+      "authors": [
+        "MiyamuraShiro"
+      ],
       "credits": "Basic texture project by MiyamuraShiro. The upstream README documents the ULUS-10249 target and its source contributors; no redistribution license is stated, so EmuCoreA links to the exact upstream archive only.",
       "description": "PPSSPP replacement textures for the US PSP release. The upstream ZIP contains textures.ini and 49 PNG assets; one source mapping points to an absent graphic/ceu1.png, so the external snapshot is kept link-only without altering it.",
       "downloadUrl": "https://github.com/MiyamuraShiro/Test-Drive-Unlimited-Texture-PSP/archive/refs/heads/main.zip",
@@ -306,7 +389,75 @@
       "fileCount": 49,
       "previewUrls": [],
       "sourceRelease": "main"
+    },
+    {
+      "id": "sonofugly-lcs-texture-pack-20260919",
+      "name": "Liberty City Stories Texture Pack",
+      "gameTitle": "Grand Theft Auto: Liberty City Stories",
+      "serials": [
+        "ULUS-10041"
+      ],
+      "version": "master release e6ff894",
+      "authors": [
+        "SonofUgly"
+      ],
+      "credits": "Original pack by SonofUgly. The author states in the PPSSPP forum thread that others are free to use any or all of the project; EmuCoreA preserves the upstream README and identifies the original source.",
+      "description": "PPSSPP replacement textures for the PSP release. The upstream release contains 285 image assets and 270 valid textures.ini mappings. The upstream archive had dangling mappings; this normalized ZIP removes only mappings whose files were absent and does not modify image bytes.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Textures/releases/download/texture-catalog/sonofugly-lcs-texture-pack-ulus10041.zip",
+      "sourceUrl": "https://github.com/SonofUgly/LCS-Texture-Pack",
+      "license": "Explicit author permission: SonofUgly wrote “they're free to use any or all of this project” in https://forums.ppsspp.org/showthread.php?pid=142853&tid=22930; no formal SPDX license; original game/third-party source rights remain with their owners",
+      "distribution": "mirrored",
+      "sizeBytes": 6496670,
+      "sha256": "58F6743E998D5018F6951D8EBE319704E17B6E4D40EEE959458DBEE5984DFF95",
+      "fileCount": 285,
+      "previewUrls": [],
+      "sourceRelease": "e6ff894"
+    },
+    {
+      "id": "sonofugly-vcs-texture-pack-20260919",
+      "name": "Vice City Stories Texture Pack",
+      "gameTitle": "Grand Theft Auto: Vice City Stories",
+      "serials": [
+        "ULUS-10160"
+      ],
+      "version": "master release 7728c4f",
+      "authors": [
+        "SonofUgly"
+      ],
+      "credits": "Original pack by SonofUgly. The author states in the PPSSPP forum thread that others are free to use any or all of the project; EmuCoreA preserves the upstream README and identifies the original source.",
+      "description": "PPSSPP replacement textures for the PSP release. The upstream release contains 207 image assets and 199 valid textures.ini mappings. The upstream archive had dangling mappings; this normalized ZIP removes only mappings whose files were absent and does not modify image bytes.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Textures/releases/download/texture-catalog/sonofugly-vcs-texture-pack-ulus10160.zip",
+      "sourceUrl": "https://github.com/SonofUgly/VCS-Texture-Pack",
+      "license": "Explicit author permission: SonofUgly wrote “they're free to use any or all of this project” in https://forums.ppsspp.org/showthread.php?pid=142853&tid=22930; no formal SPDX license; original game/third-party source rights remain with their owners",
+      "distribution": "mirrored",
+      "sizeBytes": 3429122,
+      "sha256": "C797DC5264A192A021A61D3897B1E67266DA7FC16BD31C0705F3F3B948A551DE",
+      "fileCount": 207,
+      "previewUrls": [],
+      "sourceRelease": "7728c4f"
+    },
+    {
+      "id": "sonofugly-cw-texture-pack-20260919",
+      "name": "Chinatown Wars Texture Pack",
+      "gameTitle": "Grand Theft Auto: Chinatown Wars",
+      "serials": [
+        "ULUS-10490"
+      ],
+      "version": "master release cb54601",
+      "authors": [
+        "SonofUgly"
+      ],
+      "credits": "Original pack by SonofUgly. The author states in the PPSSPP forum thread that others are free to use any or all of the project; EmuCoreA preserves the upstream README and identifies the original source.",
+      "description": "PPSSPP replacement textures for the PSP release. The upstream release contains 37 image assets and 37 valid textures.ini mappings. The upstream archive had dangling mappings; this normalized ZIP removes only mappings whose files were absent and does not modify image bytes.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Textures/releases/download/texture-catalog/sonofugly-cw-texture-pack-ulus10490.zip",
+      "sourceUrl": "https://github.com/SonofUgly/CW-Texture-Pack",
+      "license": "Explicit author permission: SonofUgly wrote “they're free to use any or all of this project” in https://forums.ppsspp.org/showthread.php?pid=142853&tid=22930; no formal SPDX license; original game/third-party source rights remain with their owners",
+      "distribution": "mirrored",
+      "sizeBytes": 5751832,
+      "sha256": "5DF35AD0CAF68106955996A8F75EE20B61B7214174B710EDC8CF7FC93D38DBD7",
+      "fileCount": 37,
+      "previewUrls": [],
+      "sourceRelease": "cb54601"
     }
   ]
 }
-

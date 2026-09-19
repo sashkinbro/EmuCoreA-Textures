@@ -52,7 +52,43 @@
           "sourceCommit": "455ef7f00fb5b3906e26a5a19e2c46aa54d44228"
         }
       ]
+    },
+    {
+      "batchId": "2026-09-19-004",
+      "verifiedAt": "2026-09-19T21:30:00Z",
+      "releaseTag": "texture-catalog",
+      "entries": [
+        {
+          "catalogId": "sonofugly-lcs-texture-pack-20260919",
+          "sourceSha256": "F941ADE1537936AE8B2CAD82C4C3210B1803CDA4D746B8FC88233512C717FEF7",
+          "normalizedSha256": "58F6743E998D5018F6951D8EBE319704E17B6E4D40EEE959458DBEE5984DFF95",
+          "manifestSha256": "3FC687378BB9896518EEB166A3542D389D6F526BDA0E7678C5A3E67E6745659F",
+          "contentSetSha256": "81EC80CE963724C59157D1FD29948BF97EF58FA5A6C1CA426725876FFD47F613",
+          "assetName": "sonofugly-lcs-texture-pack-ulus10041.zip",
+          "sourceUrl": "https://github.com/SonofUgly/LCS-Texture-Pack",
+          "sourceCommit": "e6ff894"
+        },
+        {
+          "catalogId": "sonofugly-vcs-texture-pack-20260919",
+          "sourceSha256": "101FE4770BFEA670141C2FBCE30425E9FC5AA3EC8183A3E8717D040AE2698891",
+          "normalizedSha256": "C797DC5264A192A021A61D3897B1E67266DA7FC16BD31C0705F3F3B948A551DE",
+          "manifestSha256": "B2A9E7E54773233165626C709449C7F340BC3FE75AAD41183DFE3229D28F4212",
+          "contentSetSha256": "04338943286DA4F1984187025A0C65B4D972EEC33A87CDE2476E6ACB24ED962E",
+          "assetName": "sonofugly-vcs-texture-pack-ulus10160.zip",
+          "sourceUrl": "https://github.com/SonofUgly/VCS-Texture-Pack",
+          "sourceCommit": "7728c4f"
+        },
+        {
+          "catalogId": "sonofugly-cw-texture-pack-20260919",
+          "sourceSha256": "B2EEF072AB0E5C02986A609C643017A42B91CFFEAD1F060DC40344720FA3C018",
+          "normalizedSha256": "5DF35AD0CAF68106955996A8F75EE20B61B7214174B710EDC8CF7FC93D38DBD7",
+          "manifestSha256": "4C88D6A247C592C3DE5D37A48E895268855DCA978EB524432D962222C8E4F01E",
+          "contentSetSha256": "04B47764CC45FFC6727087FA73F7B2BB97CE161CFDB39A2EBE90E0250749EC84",
+          "assetName": "sonofugly-cw-texture-pack-ulus10490.zip",
+          "sourceUrl": "https://github.com/SonofUgly/CW-Texture-Pack",
+          "sourceCommit": "cb54601"
+        }
+      ]
     }
   ]
 }
-
