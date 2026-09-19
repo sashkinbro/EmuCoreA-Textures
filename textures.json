@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "platform": "ppsspp",
-  "generatedAt": "2026-09-19T14:03:45Z",
+  "generatedAt": "2026-09-19T14:45:00Z",
   "entries": [
     {
       "id": "imassp-tl-idolmaster-sp-cn-20260919",
@@ -135,6 +135,25 @@
       "fileCount": 384,
       "previewUrls": [],
       "sourceRelease": "latest"
+    },
+    {
+      "id": "ezehokadrim-fate-extra-20260919",
+      "name": "Fate/Extra PSP HD Texture Pack",
+      "gameTitle": "Fate/Extra",
+      "serials": ["ULUS-10576"],
+      "version": "master snapshot 2026-09-19",
+      "authors": ["Ezehokadrim"],
+      "credits": "Texture project by Ezehokadrim. The upstream README credits original game rights holders and asks users to credit the author; EmuCoreA links to the original repository and does not mirror it.",
+      "description": "PPSSPP replacement textures for the US PSP release. The repository contains a root textures.ini and 1,991 image assets, with 200 referenced images absent from the snapshot; its README does not state a redistribution license or permission, so this entry keeps the exact upstream ZIP link only.",
+      "downloadUrl": "https://github.com/Ezehokadrim/fate-extra-texturepack/archive/refs/heads/master.zip",
+      "sourceUrl": "https://github.com/Ezehokadrim/fate-extra-texturepack",
+      "license": "No redistribution license stated; upstream README requests author credit and reserves original game rights; link-only",
+      "distribution": "link-only",
+      "sizeBytes": 26250278,
+      "sha256": "C2579A5426DBe7530F1DDE31EA5A0268791CD15E48C0C48238E7962454BDDA77",
+      "fileCount": 1991,
+      "previewUrls": [],
+      "sourceRelease": "master"
     }
   ]
 }
