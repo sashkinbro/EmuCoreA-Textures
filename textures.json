@@ -192,6 +192,25 @@
       "fileCount": 37,
       "previewUrls": [],
       "sourceRelease": "Pack-de-textures-HD"
+    },
+    {
+      "id": "sieben5106-fate-extra-japanese-hd-font-20260919",
+      "name": "Fate/EXTRA Japanese HD Font Add-on",
+      "gameTitle": "Fate/EXTRA",
+      "serials": ["NPJH-50247"],
+      "version": "main snapshot 2026-09-19",
+      "authors": ["SIEBEN5106"],
+      "credits": "Japanese HD font add-on by SIEBEN5106. The README identifies the source fonts and their SIL Open Font License 1.1 terms; the texture pack itself has no separate redistribution license, so EmuCoreA links to the upstream snapshot only.",
+      "description": "Japanese font replacement add-on for the Japanese PSP release. The upstream ZIP contains textures.ini and 16 PNG font textures, but it is designed to be merged into another Fate/EXTRA texture pack and does not include the rest of the game textures; install it only with the upstream instructions.",
+      "downloadUrl": "https://github.com/SIEBEN5106/Fate-EXTRA-Japanese-HD-Font/archive/refs/heads/main.zip",
+      "sourceUrl": "https://github.com/SIEBEN5106/Fate-EXTRA-Japanese-HD-Font",
+      "license": "No separate redistribution license stated for the pack; referenced fonts are under SIL Open Font License 1.1; link-only",
+      "distribution": "link-only",
+      "sizeBytes": 13052308,
+      "sha256": "1A42B83974C762845A7D44A0F385916D547507618A6C08169653DFD4ED50FF02",
+      "fileCount": 19,
+      "previewUrls": [],
+      "sourceRelease": "main"
     }
   ]
 }
