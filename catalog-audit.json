@@ -5,7 +5,7 @@
     {
       "batchId": "2026-09-19-001",
       "verifiedAt": "2026-09-19T00:00:00Z",
-      "releaseTag": "texture-catalog-2026-09-19",
+      "releaseTag": "texture-catalog",
       "entries": [
         {
           "catalogId": "imassp-tl-idolmaster-sp-cn-20260919",
@@ -22,7 +22,7 @@
     {
       "batchId": "2026-09-19-002",
       "verifiedAt": "2026-09-19T14:01:56Z",
-      "releaseTag": "texture-catalog-psp-additional-20260919",
+      "releaseTag": "texture-catalog",
       "entries": [
         {
           "catalogId": "althonos-lapucelle-ragnarok-ui-20260919",
@@ -39,7 +39,7 @@
     {
       "batchId": "2026-09-19-003",
       "verifiedAt": "2026-09-19T14:33:00Z",
-      "releaseTag": "texture-catalog-psp-panda-20260919",
+      "releaseTag": "texture-catalog",
       "entries": [
         {
           "catalogId": "pandaquq-p3p-hd-chinese-overlay-20260919",
