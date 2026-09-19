@@ -35,6 +35,23 @@
           "sourceCommit": "1bd9e1a"
         }
       ]
+    },
+    {
+      "batchId": "2026-09-19-003",
+      "verifiedAt": "2026-09-19T14:33:00Z",
+      "releaseTag": "texture-catalog-psp-panda-20260919",
+      "entries": [
+        {
+          "catalogId": "pandaquq-p3p-hd-chinese-overlay-20260919",
+          "sourceSha256": "2DB551BAD2A14652AA6070D2B11E4A2357E604059FB6C2B4952CE7FB3AA321FA",
+          "normalizedSha256": "820D940FFE4D803873F7050B726C0D58B052CFF56F21429EF83DBCE24942A4FD",
+          "manifestSha256": "F43246E6EEF778EE526AB3994EC33EC830896147DB3E130FD63A7C38B903580F",
+          "contentSetSha256": "251ED2F147B96516DECAFDEDEA4D7DC3808316FE7BC7DD7E13C8A8EE0CE7B1C6",
+          "assetName": "p3p-hd-chinese-npjh50040-v0.11-emucorea.zip",
+          "sourceUrl": "https://github.com/PandaQuQ/P3P_HD_CHINESE",
+          "sourceCommit": "455ef7f00fb5b3906e26a5a19e2c46aa54d44228"
+        }
+      ]
     }
   ]
 }

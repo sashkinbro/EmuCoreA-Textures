@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "platform": "ppsspp",
-  "generatedAt": "2026-09-19T14:45:00Z",
+  "generatedAt": "2026-09-19T14:33:00Z",
   "entries": [
     {
       "id": "imassp-tl-idolmaster-sp-cn-20260919",
@@ -154,6 +154,25 @@
       "fileCount": 1991,
       "previewUrls": [],
       "sourceRelease": "master"
+    },
+    {
+      "id": "pandaquq-p3p-hd-chinese-overlay-20260919",
+      "name": "Persona 3 Portable HD Chinese Texture Overlay",
+      "gameTitle": "Persona 3 Portable",
+      "serials": ["NPJH-50040"],
+      "version": "v0.11 normalized overlay",
+      "authors": ["PandaQuQ", "TridentOfTheAbyss"],
+      "credits": "Original project by PandaQuQ and TridentOfTheAbyss; the upstream README also credits the PPSSPP and Persona Modding communities and identifies the separate DinJerr base pack. EmuCoreA includes the upstream MIT LICENSE and an attribution notice.",
+      "description": "Chinese HD texture overlay for the Japanese fan-translation release. The upstream textures.ini referenced a separate US base pack and 4,775 absent files; this normalized archive retains the 3,306 present PNG assets and their complete mappings, so the base pack remains a separate prerequisite.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Textures/releases/download/texture-catalog-psp-panda-20260919/p3p-hd-chinese-npjh50040-v0.11-emucorea.zip",
+      "sourceUrl": "https://github.com/PandaQuQ/P3P_HD_CHINESE",
+      "license": "MIT License for the upstream repository; LICENSE and attribution notice are included. Original game and separate DinJerr base-pack rights remain with their respective owners.",
+      "distribution": "mirrored",
+      "sizeBytes": 24483912,
+      "sha256": "820D940FFE4D803873F7050B726C0D58B052CFF56F21429EF83DBCE24942A4FD",
+      "fileCount": 3306,
+      "previewUrls": [],
+      "sourceRelease": "main @ 455ef7f00fb5b3906e26a5a19e2c46aa54d44228"
     }
   ]
 }
