@@ -173,6 +173,25 @@
       "fileCount": 3306,
       "previewUrls": [],
       "sourceRelease": "main @ 455ef7f00fb5b3906e26a5a19e2c46aa54d44228"
+    },
+    {
+      "id": "chenetulipe-p2is-french-hd-overlay-20260919",
+      "name": "Persona 2: Innocent Sin French HD Texture Patch",
+      "gameTitle": "Persona 2: Innocent Sin",
+      "serials": ["ULES-01557"],
+      "version": "beta 0.1",
+      "authors": ["chenetulipe contributors"],
+      "credits": "French texture patch by the chenetulipe project. The upstream release credits @racawr for the separate original HD base pack and instructs users to apply this patch over it.",
+      "description": "French UI texture patch for the European PSP release. The exact upstream ZIP contains 37 PNG files under patch/Text and patch/UI but no textures.ini; it must be overlaid on the separate base pack and is therefore cataloged as a source link, not a standalone EmuCoreA downloadable pack.",
+      "downloadUrl": "https://github.com/chenetulipe/P2-FR-IS-PSP/releases/download/Pack-de-textures-HD/P2IS-HD-FR-beta0.1.zip",
+      "sourceUrl": "https://github.com/chenetulipe/P2-FR-IS-PSP",
+      "license": "CC BY-NC-SA 4.0 for the French patch and project-owned assets per upstream README; original base pack and game rights remain with their respective owners; link-only",
+      "distribution": "link-only",
+      "sizeBytes": 2699450,
+      "sha256": "E16E0D87512E8D78F02DCF593DFA4CBB10DF01CEFD6469DF869E30A3E174BA47",
+      "fileCount": 37,
+      "previewUrls": [],
+      "sourceRelease": "Pack-de-textures-HD"
     }
   ]
 }
