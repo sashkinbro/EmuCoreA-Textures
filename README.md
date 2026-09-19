@@ -77,6 +77,10 @@ where available. Third-party game and texture rights remain with their
 respective owners. The authoritative author, source, license, serial,
 mapping, size, and SHA-256 fields are in `textures.json`.
 
+The reasons the remaining eleven entries stay external are recorded in
+[`LINK-ONLY-AUDIT.md`](LINK-ONLY-AUDIT.md), including the explicit no-reupload
+restriction on the Manhunt 2 pack and the non-standalone Persona 2 overlay.
+
 Run the checks before publishing a catalog change:
 
 ```text
