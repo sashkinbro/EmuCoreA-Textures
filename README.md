@@ -46,6 +46,13 @@ Each entry has `downloadUrl` (the exact ZIP), `sourceUrl` (the project page),
 EmuCoreA has written permission to mirror the archive. `serials` use the
 hyphenated PSP form (`ULUS-10041`) while installers remove the hyphen.
 
+The current mirrored ZIP assets are published in the
+[`texture-catalog-psp-packs-20260919`](https://github.com/sashkinbro/EmuCoreA-Textures/releases/tag/texture-catalog-psp-packs-20260919)
+release. Its assets include the IMASSP Idolmaster SP pack, the normalized La
+Pucelle Ragnarok UI pack, and the Persona 3 Portable Chinese overlay. Entries
+marked `link-only` keep the author's direct URL and are not copied into this
+release.
+
 Run the checks before publishing a catalog change:
 
 ```text
