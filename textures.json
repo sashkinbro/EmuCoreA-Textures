@@ -211,6 +211,25 @@
       "fileCount": 19,
       "previewUrls": [],
       "sourceRelease": "main"
+    },
+    {
+      "id": "saramagrean-sao-infinity-moment-hd-20260919",
+      "name": "Sword Art Online: Infinity Moment HD Texture Pack",
+      "gameTitle": "Sword Art Online: Infinity Moment",
+      "serials": ["NPJH-50701"],
+      "version": "master snapshot 2026-09-19",
+      "authors": ["Saramagrean (Benjamin Benda Gates)"],
+      "credits": "HD texture and cutscene support project by Saramagrean. The upstream README documents compatibility with the original Japanese release or an English-patched release; EmuCoreA links to the original repository and does not mirror it.",
+      "description": "PPSSPP HD replacement textures for Sword Art Online: Infinity Moment. The exact upstream ZIP contains a root textures.ini and 2,421 PNG assets; it is a large source archive and may be used with the original Japanese game or the separately documented English patch.",
+      "downloadUrl": "https://github.com/Saramagrean/SAO-IM-HD-Remake-Project/archive/refs/heads/master.zip",
+      "sourceUrl": "https://github.com/Saramagrean/SAO-IM-HD-Remake-Project",
+      "license": "No redistribution license stated; link to upstream only",
+      "distribution": "link-only",
+      "sizeBytes": 252883805,
+      "sha256": "8542CD626DFFD1E6F22BA65E241C0618C74E7EF59C38BC5188DE2B95956910C9",
+      "fileCount": 2423,
+      "previewUrls": [],
+      "sourceRelease": "master"
     }
   ]
 }
