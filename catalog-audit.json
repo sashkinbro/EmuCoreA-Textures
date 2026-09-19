@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "platform": "ppsspp",
+  "batches": [
+    {
+      "batchId": "2026-09-19-001",
+      "verifiedAt": "2026-09-19T00:00:00Z",
+      "releaseTag": "texture-catalog-2026-09-19",
+      "entries": [
+        {
+          "catalogId": "imassp-tl-idolmaster-sp-cn-20260919",
+          "sourceSha256": "4164D6E1D00491E7DC1526289770D0F0112C78DB29364D725F2E1DB38BB0B85E",
+          "normalizedSha256": "C0D7E7D6956AC4F5655BF1C5CCDBA88E5772CCC07C1E8A07AE43988D3AB97E15",
+          "manifestSha256": "05AFB1567ED575E9420C4865C70F9E28ED8A582CC86AF84C57AFBA8FB2031191",
+          "contentSetSha256": "A3CB5DB1D40EE42EF89A488036D5A1655CCD3288EB9B69ADB0AF9CD9E3F283EA",
+          "assetName": "imas-sp-perfect-sun-wandering-star-missing-moon.zip",
+          "sourceUrl": "https://github.com/IMASSP-TL/Imas-SP-Texture-Patch-CN",
+          "sourceCommit": "main"
+        }
+      ]
+    }
+  ]
+}

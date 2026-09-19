@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "platform": "ppsspp",
+  "generatedAt": "2026-09-19T00:00:00Z",
+  "entries": [
+    {
+      "id": "imassp-tl-idolmaster-sp-cn-20260919",
+      "name": "The Idolmaster SP Chinese High Resolution Texture Pack",
+      "gameTitle": "The Idolmaster SP",
+      "serials": ["ULJS-00167", "ULJS-00168", "ULJS-00169"],
+      "version": "main snapshot 2026-09-19",
+      "authors": ["IMASSP-TL contributors"],
+      "credits": "Original pack and texture work by the IMASSP-TL contributors. EmuCoreA normalized the upstream repository into a deterministic PPSSPP ZIP while retaining the upstream LICENSE and README.",
+      "description": "Chinese high-resolution replacement textures for Perfect Sun, Wandering Star, and Missing Moon. The archive contains textures.ini and the referenced PNG assets only; it does not contain a game image.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Textures/releases/download/texture-catalog-2026-09-19/imas-sp-perfect-sun-wandering-star-missing-moon.zip",
+      "sourceUrl": "https://github.com/IMASSP-TL/Imas-SP-Texture-Patch-CN",
+      "license": "GPL-3.0 for the source repository; see the included LICENSE and upstream project notice for game asset attribution",
+      "distribution": "mirrored",
+      "sizeBytes": 294486374,
+      "sha256": "C0D7E7D6956AC4F5655BF1C5CCDBA88E5772CCC07C1E8A07AE43988D3AB97E15",
+      "fileCount": 244,
+      "previewUrls": ["https://picui.ogmua.cn/s1/2026/03/24/69c1c927149b7.webp"],
+      "sourceRelease": "main"
+    }
+  ]
+}
